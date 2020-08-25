@@ -4,5 +4,11 @@
       "id": "apartments.com",
       "src": "p.apt.ad101"
     }
+  ],
+  "script-variables": [
+    {
+      "id": "avenueatyork.com",
+      "class": ".header>p"
+    }
   ]
 }
