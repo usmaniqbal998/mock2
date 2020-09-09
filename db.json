@@ -3,6 +3,11 @@
     {
       "id": "apartments.com",
       "src": "w.apt"
+    },{
+      
+      "id": "apartmentfinder.com",
+      "src": "w.apartmentfinder"
+    
     }
   ],
   "script-variables": [
