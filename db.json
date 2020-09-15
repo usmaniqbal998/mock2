@@ -8,6 +8,10 @@
       "id": "apartmentfinder.com",
       "src": "w.apartmentfinder"
     
+    },
+    {
+    "id":"facebook.com",
+     "src":"w.fb"
     }
   ],
   "script-variables": [
